@@ -1,0 +1,14 @@
+ID,ProgrammingLanguage,StronglyTyped,ExpressionOfTypes,YearCreated,URLs
+1,C,weak,explicit,1972,http://www.learn-c.org/
+2,C#,strong,implicit,2000,https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
+3,C++,strong,explicit partially implicit,1983,http://www.cplusplus.com/
+4,COBOL,strong,explicit,1959,http://www.csis.ul.ie/cobol/
+5,Fortran,strong,explicit partially implicit,1954,http://fortranwiki.org/fortran/show/HomePage
+6,Go,strong,explicit optionally inferred,2009,https://golang.org/
+7,Java,strong,explicit,1995,http://www.oracle.com/technetwork/java/index-138747.html
+8,Lisp,strong,n/a,1958,http://lisp-lang.org/
+9,Perl,weak,implicit,1987,https://www.perl.org/
+10,Python,strong,implicit,1989,https://www.python.org/
+11,R,strong,implicit,1995,https://www.r-project.org/
+12,Ruby,strong,implicit,1995,https://www.ruby-lang.org/en/
+13,Visual Basic,strong,implicit,1991,https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/
